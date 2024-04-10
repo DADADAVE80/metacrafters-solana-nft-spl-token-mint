@@ -16,3 +16,4 @@ candy-machine-ui/.env.local
 candy-machine-ui/.env.development.local
 candy-machine-ui/node_modules
 mint-spl-tokens/node_modules
+cache.json
