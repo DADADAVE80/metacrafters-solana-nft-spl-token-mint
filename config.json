@@ -5,7 +5,7 @@
   "sellerFeeBasisPoints": 500,
   "gatekeeper": null,
   "solTreasuryAccount": "WALLET_ADDRESS",
-  "splTokenAccount": "SPL_TOKEN_ADDRESS",
+  "splTokenAccount": "WALLET_ADDRESS",
   "splToken": "SPL_TOKEN_ADDRESS",
   "goLiveDate": "2024-02-24T00:00:00Z",
   "endSettings": null,
